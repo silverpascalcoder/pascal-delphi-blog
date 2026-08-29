@@ -1,6 +1,6 @@
 # Modern Pascal
 
-A clear, modern, Wirth‑inspired programming ecosystem built for developers who value correctness, simplicity, and long‑term maintainability.
+A clear, modern and  Wirth‑inspired programming ecosystem built for developers who value correctness, simplicity, and long‑term maintainability.
 
 Modern Pascal is a home for thoughtful programming — a place where clean language design, practical tooling, and decades of proven ideas meet today’s development realities. Whether you’re exploring FreePascal, writing modern systems code, or comparing language design across ecosystems like Odin, Zig, or Go, this site brings clarity to the conversation.
 
