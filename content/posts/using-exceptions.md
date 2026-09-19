@@ -1,6 +1,13 @@
++++
+date = '2026-08-12T17:52:00+10:00'
+draft = false
+title = 'Five Sins of Exception Handling in Object Pascal'
+summary = 'A companion piece to Tim’s “Five Sins in Five Minutes” video on Exceptions located on Youtube'
++++
+
 # Five (Six) Sins of Exception Handling in Object Pascal
 
- This is a short companion piece to Tim’s “Five Sins in Five Minutes” video on Exceptions and found on Youtube (https://youtu.be/0qxkhr3EPGM?si=Vr9vRtbQ9nfF-EqC). All examples below are in Free Pascal / Lazarus (Object Pascal) or Delphi, but applicable to any language that uses exception handling.
+ This is a companion piece to Tim’s “Five Sins in Five Minutes” video on Exceptions and found on Youtube (https://youtu.be/0qxkhr3EPGM?si=Vr9vRtbQ9nfF-EqC). All examples below are in Free Pascal / Lazarus (Object Pascal) or Delphi, but applicable to any language that uses exception handling.
 
 Exceptions exist for *exceptional* situations. They are not part of normal control flow. Once upon a time they were also expensive to set up and tear down; even today the real cost is usually lost context and harder debugging. The patterns below are ones that appear repeatedly in real code reviews and public repositories.
 
