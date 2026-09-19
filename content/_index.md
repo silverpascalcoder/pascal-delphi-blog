@@ -5,6 +5,12 @@ showReadingTime: false
 showBreadCrumbs: false
 showToc: false
 ---
+![Banner](/images/banner.jpg)
+
+## Navigation
+
+- **[About](/about/)** — What Modern Pascal is and why it exists
+- **[Posts](/posts/)** — Articles, commentary, and ecosystem insights
 
 ## Modern Pascal
 

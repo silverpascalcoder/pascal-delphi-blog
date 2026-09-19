@@ -2,3 +2,14 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'PaperMod'
+
+[params]
+  ShowCover = true
+  ShowPageCover = true
+
+  [params.cover]
+    image = "images/banner.jpg"
+    alt = "Banner Image"
+    caption = ""
+    relative = false
+
