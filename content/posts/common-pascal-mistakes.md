@@ -2,7 +2,7 @@
 date = '2026-09-20T10:32:00+10:00'
 draft = false
 title = 'Five in Five #1: Common Pascal Mistakes'
-summary = 'Welcome to the first proper episode of the Five in Five series. The goal is simple: cover five common mistakes that both new and experienced programmers make when working with Free Pascal, Lazarus, or Delphi.''
+summary = 'Welcome to the first proper episode of the Five in Five series. The goal is simple: cover five common mistakes that both new and experienced programmers make when working with Free Pascal, Lazarus, or Delphi.'
 +++
 
 # Common Free Pascal, Lazarus & Delphi Mistakes That Hurt Your Applications
@@ -159,7 +159,7 @@ All forms simply call `AddPhoneNumber`. One place to maintain, one place to test
 
 ---
 
-### Summary
+## Summary
 
 | # | Mistake                        | Better Practice                              |
 |---|--------------------------------|----------------------------------------------|
