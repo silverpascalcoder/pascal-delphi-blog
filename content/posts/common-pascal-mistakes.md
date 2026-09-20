@@ -5,7 +5,7 @@ title = 'Five in Five #1: Common Pascal Mistakes'
 summary = 'Welcome to the first proper episode of the Five in Five series. The goal is simple: cover five common mistakes that both new and experienced programmers make when working with Free Pascal, Lazarus, or Delphi.'
 +++
 
-# Common Free Pascal, Lazarus & Delphi Mistakes That Hurt Your Applications
+## Common Free Pascal, Lazarus & Delphi Mistakes That Hurt Your Applications
 
 Welcome to the first proper episode of the *Five in Five* series. The goal is simple: cover five common mistakes that both new and experienced programmers make when working with Free Pascal, Lazarus, or Delphi — and do it quickly.
 
